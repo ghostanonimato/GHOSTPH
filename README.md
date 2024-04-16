@@ -8,3 +8,14 @@ Este kit de ferramentas contém materiais que podem ser potencialmente prejudici
 Esta ferramenta é feita apenas para fins educacionais . Não tente violar a lei com nada contido aqui. Se esta é a sua intenção, então dê o fora daqui !
 
 Isso apenas demonstra "como funciona o GHOSTPH". Você não deve usar indevidamente as informações para obter acesso não autorizado às redes sociais de alguém . No entanto, você pode tentar isso por sua própria conta e risco.
+
+# Características
+° Páginas de login mais recentes e atualizadas.
+° Amigável para iniciantes
+° Várias opções de tunelamento
+° Host local
+° Cloudflared
+° LocalXpose
+° Suporte a URL de máscara
+° Suporte Docker
+
