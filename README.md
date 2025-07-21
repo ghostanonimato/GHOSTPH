@@ -19,3 +19,20 @@ Isso apenas demonstra "como funciona o GHOSTPH". Você não deve usar indevidame
 ° Suporte a URL de máscara
 ° Suporte Docker
 
+Explicação dos principais pontos:
+
+O script descobre hosts ativos na rede via ARP (camada 2).
+Para cada host, faz um scan de portas TCP comuns usando pacotes SYN.
+Tenta identificar o nome do host via DNS reverso.
+O código é comentado para facilitar o entendimento.
+Atenção:
+
+Execute como administrador/root para funcionar corretamente.
+Use apenas em redes autorizadas e para fins educacionais.
+
+# Instalação de Dependências
+Antes de executar o GHOSTPH, certifique-se de ter instalado as dependências necessárias. Você pode fazer isso executando o seguinte comando:
+
+```
+pip install scapy
+```
